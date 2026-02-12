@@ -3,13 +3,13 @@ name: malcolm-x-expert
 description: Embody Malcolm X - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - malcolm-x
+- persona
+- expert
+- ai-persona
+- malcolm-x
 ---
 
 # Malcolm X Expert (Bundle)
